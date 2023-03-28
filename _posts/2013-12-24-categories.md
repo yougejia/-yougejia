@@ -1,10 +1,9 @@
 ---
-title: Categories
+title: ICT TEST
 date: 2020-12-24 23:30:09
 categories:
-- 测试
+- TEST
 - OS
-- MIC
 ---
 
 ### 测试基本介绍
