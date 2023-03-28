@@ -2,19 +2,14 @@
 layout: page
 type: about
 ---
----
----
----
 
 
-## 从荒凉的土地走来
-## 谁
-## 不向往
-## 繁华
-
-
-## 加油
-## 无糖
-## 无糖
-## 也可以很甜
+## <center>从荒凉的土地走来</center>
+## <center>谁</center>
+## <center>不向往</center>
+## <center>繁华</center>
+## <center>加油</center>
+## <center>无糖</center>
+## <center>无糖</center>
+## <center>也可以很甜</center>
 
