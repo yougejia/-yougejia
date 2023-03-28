@@ -92,7 +92,7 @@ rss:
 # icon between year and author @Footer
 authoricon: heart
 
-# Footer `powered-by` and `theme-info` copyright
+# ©2021 - 2023 powered-by and theme-info copyright
 copyright: true
 
 # ---------------------------------------------------------------
@@ -121,9 +121,9 @@ menu:
   categories: /categories/
   about: /about/
   archives: /archives/
-  tags: /tags/
-  sitemap: /sitemap.xml
-  commonweal: /404.html
+# tags: /tags/
+# sitemap: /sitemap.xml
+# commonweal: /404.html
 
 
 # Enable/Disable menu icons.
