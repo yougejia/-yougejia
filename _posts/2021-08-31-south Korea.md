@@ -27,3 +27,5 @@ categories:
 一路走来感觉沟通带来了挺多的困扰。我要学英语，这次是认真的。回想之前断断续续背过的单词。没有检查下来带给自己的困扰。。。学习一门通用的语言迫在眉睫。
 <a><img src="{{youge.icu}}/images/life/malong.png"></a>
 <a><img src="{{youge.icu}}/images/life/renchuan.jpg"></a>
+
+
