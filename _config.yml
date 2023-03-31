@@ -727,7 +727,9 @@ vendors:
   # Internal version: 3.3.0
   # https://github.com/ethantw/Han
   han:
-
+auto_excerpt:
+  enable: true
+  length: 150
 
 # Assets
 css: assets/css
